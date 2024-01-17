@@ -1,0 +1,35 @@
+.logo {
+    font-family: "Raleway";
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.72px;
+  
+
+  }
+  .logo-web {
+    color: #2196f3;
+
+  }
+  .logo-studio {
+    color: #000;
+  }
+  .logo-footer{
+    font-family: "Raleway";
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0.72px;
+    margin: 40px;
+    // margin: 0px 0 20px 148px;
+    @media screen and (min-width:768px) {
+       font-size: 24px;
+       margin:40px;
+    }
+    @media screen and (min-width:1600px) {
+      margin: 0;
+    }
+  }
+  .logo-studio-footer {
+    color: #fff;
+  
+  
+  }
